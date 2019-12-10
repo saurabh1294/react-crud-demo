@@ -74,7 +74,7 @@ Clone this repo and run `npm install` in root directory
 Inside root directory run `npm start`
 
 ### Server side
-run `node mocks/mock.server.js` inside root directory in another tab
+run `node mocks/mock.server.js` inside root directory in another tab. It will startup the server on port 3456 as `http://localhost:3456`
 
 ### To prettify the code
 run `yarn lint:fix` inside root directory
